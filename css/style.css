@@ -86,3 +86,16 @@ ul li:last-child:hover {
 .button:hover a {
     color: transparent ;
 }
+
+hr {
+    height: 40px;
+    color: rgb(32, 31, 31);
+    
+}
+
+
+
+ ul li {
+    list-style: none;
+}
+
