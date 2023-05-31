@@ -1,0 +1,39 @@
+.navbar-expand-lg .navbar-collapse  {
+        justify-content: end;
+    }
+    
+    .nav-link {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    
+    .carousel-indicators [data-bs-target] {
+       background-color: #FDC830;  /* fallback for old browsers */
+    background-color: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background-color: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 1px;
+    border-radius: 2px;
+    
+    }
+    
+    .carousel-item {
+        margin-bottom: 80px;
+    }
+    
+    section h6 {
+        color: #F37335;
+    }
+    
+    .card {
+        border: none;
+        box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    }
+    
+    .catagories-picture {
+        box-shadow: rgba(0, 0, 0, 0.329) 0px 18px 50px -10px;
+    }
+    
+    .container hr {
+       background-color: #df4a1d;
+        height: 5px;
+    }
