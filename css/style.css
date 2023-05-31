@@ -1,0 +1,88 @@
+.active {
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(0 175 170) !important;
+}
+
+ul li:last-child {
+    background-color: rgb(0 175 170);
+    border-radius: 50px;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in-out;
+}
+
+ul li:last-child a {
+    color: white !important;
+}
+
+ul li:last-child:hover a{
+    color:  rgb(0 175 170) !important;
+}
+
+ul li:last-child:hover {
+    background-color:  transparent;
+    border: 1px solid  rgb(0 175 170);
+}
+
+#banner {
+    background-image: url(../img/ima.jpg);
+}
+
+.myButton {
+    background-color: rgb(0 175 170) ;
+    border-radius: 50px;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in-out;
+    padding: 8px 15px;
+}
+.myButton:hover {
+    background-color:  transparent;
+    border: 1px solid  rgb(0 175 170);
+}
+
+.myButton a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.myButton:hover a {
+    color: rgb(0 175 170) ;
+}
+
+#picture {
+    margin: 0;
+}
+
+.about a {
+    color: black !important;
+}
+
+.card {
+    border: none;
+}
+
+.arrow{
+    width: 51px;
+    height: 40px;
+}
+
+.button {
+    background-color: transparent ;
+    border-radius: 50px;
+    border: 1px solid rgb(22, 174, 22);
+    transition: all 0.5s ease-in-out;
+    padding: 8px 15px;
+}
+.button:hover {
+    background-color:  rgb(22, 174, 22);
+    border: 1px solid transparent;
+}
+
+.button a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.button:hover a {
+    color: transparent ;
+}
