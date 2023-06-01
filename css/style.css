@@ -4,6 +4,11 @@
     color: rgb(0 175 170) !important;
 }
 
+.nav-link {
+    font-size: 20px;
+    font-weight: bold;
+}
+
 ul li {
     font-size: 17px;
     font-weight: 20px;

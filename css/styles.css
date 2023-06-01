@@ -1,11 +1,11 @@
-.navbar-expand-lg .navbar-collapse  {
+/*.navbar-expand-lg .navbar-collapse  {
         justify-content: end;
     }
     
     .nav-link {
         font-size: 20px;
         font-weight: bold;
-    }
+    }*/
     
     .carousel-indicators [data-bs-target] {
        background-color: #FDC830;  /* fallback for old browsers */
